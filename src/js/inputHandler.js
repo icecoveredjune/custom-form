@@ -1,3 +1,7 @@
+/**
+ * @param  {} e
+ * @returns {void}
+ */
 function inputHandler(e) {
   const target = e.target;
 
